@@ -1,0 +1,115 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=0
+Width=1280
+Height=114
+MaxLeft=0
+MaxTop=0
+MaxWidth=1288
+MaxHeight=114
+ClientWidth=1280
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=-1
+Top=112
+Width=215
+Height=835
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=207
+ClientHeight=809
+SplitPos=84
+
+[BreakpointWindow]
+Create=1
+Visible=1
+State=0
+Left=209
+Top=835
+Width=639
+Height=158
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=631
+ClientHeight=124
+Column0Width=196
+Column1Width=75
+Column2Width=58
+Column3Width=40
+
+[ProjectManager]
+Create=1
+Visible=1
+State=0
+Left=1071
+Top=111
+Width=212
+Height=697
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=204
+ClientHeight=671
+LargeButtons=1
+
+[WatchWindow]
+Create=1
+Visible=1
+State=0
+Left=857
+Top=836
+Width=421
+Height=156
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=413
+ClientHeight=122
+
+[HistoryLists\hiEvalExpression]
+Count=2
+H0=kDOB.Pos("/")
+H1=year
+
+[Closed Files]
+File_0=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\HelpAboutSrc.cpp',0,1,1,1,1,1,1
+File_1=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculatorSrc.cpp',0,1,325,25,334,1,0
+File_2=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinChartSrc.cpp',0,1,1,1,5,0,0
+File_3=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\Chart1.cpp',0,1,1,1,1,0,0
+File_4=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\StatsConverter.cpp',0,1,71,22,79,0,0
+File_5=SourceModule,'C:\PROGRA~1\BORLAND\CBUILD~1\INCLUDE\VCL\dstring.h',0,1,25,1,43,0,0
+File_6=SourceModule,'D:\ELECTI~1\SKICEN~2\Code\Shop\Hire\HireSystemSrc.cpp',0,1,1,36,17,0,0
+File_7=SourceModule,'D:\ELECTI~1\SKICEN~2\Code\Shop\Hire\MVCControler.cpp',0,1,36,32,51,0,0
+File_8=SourceModule,'D:\ELECTI~1\SKICEN~2\Code\Shop\Hire\HireFormSrc.cpp',0,1,448,16,455,0,0
+File_9=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Hire\BookingWizardSrc.cpp',0,1,1,1,16,0,1
+
+[Modules]
+Module0=C:\Program Files\Borland\CBuilder3\Projects\ProjectGroup1.bpg
+Module1=D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculator.bpr
+Count=2
+EditWindowCount=0
+
+[C:\Program Files\Borland\CBuilder3\Projects\ProjectGroup1.bpg]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculator.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Watches]
+Count=0
+

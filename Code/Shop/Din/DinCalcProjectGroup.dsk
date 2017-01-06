@@ -1,0 +1,144 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=0
+Width=1280
+Height=114
+MaxLeft=0
+MaxTop=0
+MaxWidth=1288
+MaxHeight=114
+ClientWidth=1280
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=-1
+Top=112
+Width=215
+Height=835
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=207
+ClientHeight=809
+SplitPos=84
+
+[CPUWindow]
+DumpPane=79
+DisassemblyPane=184
+StackPane=95
+RegisterPane=181
+
+[BreakpointWindow]
+Create=1
+Visible=1
+State=0
+Left=220
+Top=843
+Width=639
+Height=158
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=631
+ClientHeight=124
+Column0Width=196
+Column1Width=75
+Column2Width=58
+Column3Width=40
+
+[ProjectManager]
+Create=1
+Visible=1
+State=0
+Left=1071
+Top=111
+Width=212
+Height=727
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=204
+ClientHeight=701
+LargeButtons=1
+
+[WatchWindow]
+Create=1
+Visible=1
+State=0
+Left=857
+Top=845
+Width=421
+Height=156
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=413
+ClientHeight=122
+
+[HistoryLists\hiEvalExpression]
+Count=2
+H0=kDOB.Pos("/")
+H1=year
+
+[HistoryLists\hiEvalNewValue]
+Count=0
+
+[HistoryLists\hiOpenFile]
+Count=0
+
+[Closed Projects]
+File_0=SourceModule,'D:\ELECTI~1\SKICEN~2\Code\Shop\Hire\ShopHireSystem.bpr',1,1,1,1,1,0,0
+File_1=SourceModule,'D:\ELECTI~1\SKICEN~2\Code\RECEPT~1\ReceptionMain.bpr',1,1,1,1,1,0,0
+File_2=SourceModule,'C:\Documents and Settings\Ian\My Documents\New Folder\Explorer.bpr',1,1,1,1,1,0,0
+
+[Closed Files]
+File_0=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculator\DinCalculatorSrc.cpp',0,1,1,61,6,0,0
+File_1=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcDLL.h',0,1,7,43,36,0,0
+File_2=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcDLL\DinChartSrc.cpp',0,1,12,1,40,0,0
+File_3=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcDLL\Chart1.cpp',0,1,10,1,28,0,0
+File_4=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\StatsConcerterDLL\StatsConverter.cpp',0,1,13,1,43,0,0
+File_5=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculator\HelpAboutSrc.cpp',0,1,1,1,1,0,0
+File_6=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\StatsConverterDLL.lib',0,1,1,1,1,0,0
+File_7=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\StatsConverterDLL.h',0,1,1,1,1,0,0
+File_8=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\Chart1.cpp',0,1,1,1,97,0,0
+File_9=SourceModule,'D:\Electic Visions\Ski Centre\Code\Shop\Din\DinChartSrc.cpp',0,1,11,29,42,0,0
+
+[Modules]
+Module0=D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculator.bpr
+Module1=D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcDLL.bpr
+Module2=D:\Electic Visions\Ski Centre\Code\Shop\Din\StatsConverterDLL.bpr
+Module3=D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcProjectGroup.bpg
+Count=4
+EditWindowCount=0
+
+[D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalculator.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcDLL.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Electic Visions\Ski Centre\Code\Shop\Din\StatsConverterDLL.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Electic Visions\Ski Centre\Code\Shop\Din\DinCalcProjectGroup.bpg]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Watches]
+Count=0
+

@@ -1,0 +1,202 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=0
+Width=1280
+Height=114
+MaxLeft=-4
+MaxTop=-4
+MaxWidth=1288
+MaxHeight=114
+ClientWidth=1280
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=116
+Width=230
+Height=883
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=222
+ClientHeight=857
+SplitPos=84
+
+[ProjectManager]
+Create=1
+Visible=1
+State=0
+Left=1028
+Top=114
+Width=258
+Height=340
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=250
+ClientHeight=314
+LargeButtons=1
+
+[Closed Files]
+File_0=SourceModule,'C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\Unit1.cpp',0,1,1,37,16,0,0
+File_1=SourceModule,'C:\PROGRA~1\Borland\CBUILD~1\COMPON~1\XSTRIN~1\XDemo\unit1.pas',0,1,190,29,171,1,0
+File_2=SourceModule,'C:\PROGRA~1\Borland\CBUILD~1\COMPON~1\XSTRIN~1\XDemo\Unit2.pas',0,1,1,1,1,0,0
+File_3=SourceModule,'C:\PROGRA~1\Borland\CBUILD~1\COMPON~1\XSTRIN~1\XDemo\demobcb.bpr',0,1,1,1,1,0,0
+File_4=SourceModule,'C:\PROGRA~1\Borland\CBUILD~1\COMPON~1\XSTRIN~1\XDemo\Unit3.pas',0,1,1,1,1,0,0
+File_5=SourceModule,'C:\Program Files\Borland\CBuilder3\Components\XStringGrid\XDemo\Unit3.pas',0,1,1,50,10,0,0
+File_6=SourceModule,'C:\Program Files\Borland\CBuilder3\Components\XStringGrid\XDemo\Unit2.pas',0,1,1,1,1,0,1
+File_7=SourceModule,'C:\DOCUME~1\Ian\MYDOCU~1\ELECTI~1\SKICEN~1\Source\Reception\BookingWizzardSrc.cpp',0,1,112,21,133,0,0
+
+[Modules]
+Module0=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\MVCControler.cpp
+Module1=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\BookingSheetUtils.cpp
+Module2=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LessonBookingSheetSrc.cpp
+Module3=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LoginScreenSrc.cpp
+Module4=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\ReceptionMain.bpr
+Module5=C:\Program Files\Borland\CBuilder3\Projects\ProjectGroup1.bpg
+Module6=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\BookingWizzardSrc.cpp
+Module7=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\DataPickerSrc.cpp
+Module8=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\DatePickerSrc.cpp
+Count=9
+EditWindowCount=1
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\MVCControler.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\BookingSheetUtils.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LessonBookingSheetSrc.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LoginScreenSrc.cpp]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\ReceptionMain.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\CBuilder3\Projects\ProjectGroup1.bpg]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\BookingWizzardSrc.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\DataPickerSrc.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\DatePickerSrc.cpp]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=222
+Top=116
+Width=898
+Height=869
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=890
+ClientHeight=835
+SplitPos=50
+MessagePane=1
+ViewCount=8
+CurrentView=2
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+View7=7
+
+[View0]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LoginScreenSrc.cpp
+CursorX=26
+CursorY=38
+TopLine=38
+LeftCol=1
+
+[View1]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LoginScreenSrc.h
+CursorX=1
+CursorY=36
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\MVCControler.cpp
+CursorX=3
+CursorY=7
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\MVCControler.h
+CursorX=45
+CursorY=5
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LessonBookingSheetSrc.cpp
+CursorX=50
+CursorY=436
+TopLine=412
+LeftCol=1
+
+[View5]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\LessonBookingSheetSrc.h
+CursorX=23
+CursorY=16
+TopLine=1
+LeftCol=1
+
+[View6]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\BookingSheetUtils.cpp
+CursorX=24
+CursorY=92
+TopLine=67
+LeftCol=1
+
+[View7]
+Module=C:\Documents and Settings\Ian\My Documents\Electic Visions\Ski Centre\Source\Reception\BookingSheetUtils.h
+CursorX=66
+CursorY=14
+TopLine=1
+LeftCol=1
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Watches]
+Count=1
+Watch0='CreateForm',256,0,18,1
+

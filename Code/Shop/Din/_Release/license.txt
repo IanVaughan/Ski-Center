@@ -1,0 +1,11 @@
+Software License Agreement
+This agreement is between Christchurch Ski Centre, "you"
+and Electric Visions, "we", and is a license for the DIN Calculator, "software".
+
+1. We do not accept any lost of data of damage of equipement by the installing or use of this software.
+2. We do not accept any harm to a person to wrongfull DIN settings, or damage to a Ski Binding for incorrect settings.
+
+3. The software may be used by anyone authorized to use the computer it is installed on.
+4. The resulting DIN from the softwear must me checked against the ISO DIN chart BEFORE making any changes to a customers bindings.
+
+5. The software is a Demo, and can be used free of charge for one year. After which is must be unstalled and deleted. You can use the calculator 10 times in succession, then you will need to press the Help button which will allow you another 10 goes.
